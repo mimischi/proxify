@@ -51,9 +51,10 @@ git push dokku master
 
 ## Background
 
-The project was conceived, while I was trying to consume the RMV API with a
-VueJS application. The RMV API expects the API key to be provided inside the URL
-as a parameter `?accessId=123-456-789`.
+The project was conceived, while I was trying to consume the [RMV
+API](https://opendata.rmv.de/site/start.html) with a VueJS application. The RMV
+API expects the API key to be provided inside the URL as a parameter
+`?accessId=123-456-789`.
 
 Many thanks to [the blog post of Travis
 Horn](https://travishorn.com/creating-a-node-js-proxy-to-secure-your-third-party-api-key-e305f2c951da)
