@@ -44,7 +44,7 @@ app.post("/", function(req, res) {
       res.json(response.data);
     })
     .catch(e => {
-      res.json(e);
+      console.log(e);
     });
 });
 

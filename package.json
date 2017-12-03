@@ -2,6 +2,9 @@
   "name": "proxify",
   "version": "1.0.0",
   "description": "simple api proxy",
+  "scripts": {
+    "start": "node index.js"
+  },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
